@@ -13,3 +13,5 @@
 [x] for loop 
 
 [x] Math.random()
+
+[x] Math.floor()

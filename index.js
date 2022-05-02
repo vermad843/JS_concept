@@ -92,9 +92,18 @@
 
 
 
-
 // Math.random()-between 0 to 1 
 
 
-let randomNumber = Math.random();//0 to 1
-console.log(randomNumber);
+// let randomNumber = Math.random();//0 to 1
+// console.log(randomNumber);
+
+
+
+
+// Math.floor() - round to lower no
+
+let flooredNumber = Math.floor(3.9);//3
+console.log(flooredNumber);
+
+
