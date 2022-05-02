@@ -5,3 +5,5 @@
 [x] Strings and numbers
 
 [x] if,else if ,else
+
+[x] Boolean 

@@ -39,15 +39,26 @@
 
 // if,else if ,else
 
-let firstCard = 15;
-let secondCard = 6;
+// let firstCard = 15;
+// let secondCard = 6;
 
-let sum = firstCard + secondCard;
+// let sum = firstCard + secondCard;
 
-if(sum < 21) {
-    console.log('Do u want to a new card')
-}else if(sum === 21) {
-    console.log('You got a blackjack')
-}else {
-    console.log('you are out of the game')
-}
+// if(sum < 21) {
+//     console.log('Do u want to a new card')
+// }else if(sum === 21) {
+//     console.log('You got a blackjack')
+// }else {
+//     console.log('you are out of the game')
+// }
+
+
+// boolean 
+
+console.log(4 === 3) //false
+console.log(5 > 2) // true
+console.log(12 > 12) // false
+console.log(3 < 0) // false
+console.log(3 >= 3) // true
+console.log(11 <= 11) //true
+console.log(3 <= 2) // false 
