@@ -83,9 +83,18 @@
 
 // for loop 
 
-let array = [1,2,3,4,5,6,7,8,9,10,11]
+// let array = [1,2,3,4,5,6,7,8,9,10,11]
 
-for (let i = 0; i < array.length; i++) {
-    const element = array[i];
-    console.log(element);    
-}
+// for (let i = 0; i < array.length; i++) {
+//     const element = array[i];
+//     console.log(element);    
+// }
+
+
+
+
+// Math.random()-between 0 to 1 
+
+
+let randomNumber = Math.random();//0 to 1
+console.log(randomNumber);

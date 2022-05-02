@@ -11,3 +11,5 @@
 [x] Array 
 
 [x] for loop 
+
+[x] Math.random()
