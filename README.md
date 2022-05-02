@@ -9,3 +9,5 @@
 [x] Boolean 
 
 [x] Array 
+
+[x] for loop 

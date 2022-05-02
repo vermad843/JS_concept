@@ -66,16 +66,26 @@
 
 // Array
 
-let changes = [7,4];
+// let changes = [7,4];
 
-changes.push(9);
-console.log(changes);
+// changes.push(9);
+// console.log(changes);
 
-changes.pop();
-console.log(changes);
+// changes.pop();
+// console.log(changes);
 
-changes.unshift(9);
-console.log(changes);
+// changes.unshift(9);
+// console.log(changes);
 
-changes.shift();
-console.log(changes);
+// changes.shift();
+// console.log(changes);
+
+
+// for loop 
+
+let array = [1,2,3,4,5,6,7,8,9,10,11]
+
+for (let i = 0; i < array.length; i++) {
+    const element = array[i];
+    console.log(element);    
+}
