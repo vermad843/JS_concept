@@ -55,10 +55,27 @@
 
 // boolean 
 
-console.log(4 === 3) //false
-console.log(5 > 2) // true
-console.log(12 > 12) // false
-console.log(3 < 0) // false
-console.log(3 >= 3) // true
-console.log(11 <= 11) //true
-console.log(3 <= 2) // false 
+// console.log(4 === 3) //false
+// console.log(5 > 2) // true
+// console.log(12 > 12) // false
+// console.log(3 < 0) // false
+// console.log(3 >= 3) // true
+// console.log(11 <= 11) //true
+// console.log(3 <= 2) // false 
+
+
+// Array
+
+let changes = [7,4];
+
+changes.push(9);
+console.log(changes);
+
+changes.pop();
+console.log(changes);
+
+changes.unshift(9);
+console.log(changes);
+
+changes.shift();
+console.log(changes);
