@@ -19,9 +19,19 @@
 // template literal 
 
 
-let firstName = 'Dk';
-let lastName = 'Verma';
+// let firstName = 'Dk';
+// let lastName = 'Verma';
 
 
-let fullName = `${firstName} with ${lastName}`;
-console.log(fullName); 
+// let fullName = `${firstName} with ${lastName}`;
+// console.log(fullName); 
+
+
+// Strings and numbers
+
+console.log("2" + 2)//22
+console.log(11 + 7)//18
+console.log(6 + "5")//65
+console.log("My points: " + 5 + 9)//My points: 59
+console.log(2 + 2)//4
+console.log("11" + "14")//1114
