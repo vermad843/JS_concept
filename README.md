@@ -15,3 +15,5 @@
 [x] Math.random()
 
 [x] Math.floor()
+
+[x] Function(random number between 1 to 6)

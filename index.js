@@ -103,7 +103,18 @@
 
 // Math.floor() - round to lower no
 
-let flooredNumber = Math.floor(3.9);//3
-console.log(flooredNumber);
+// let flooredNumber = Math.floor(3.9);//3
+// console.log(flooredNumber);
 
 
+
+
+// Function(random number between 1 to 6)
+
+
+function rollDice() {
+    let randomNumber = Math.floor(Math.random() * 6 ) + 1
+    return randomNumber;
+}
+
+console.log(rollDice());
